@@ -47,3 +47,7 @@ I'm Machine Learning Engineer / Data Analyst / Data Scientist from Belarus
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikichel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
