@@ -15,20 +15,17 @@
   </h1>
 </div>
 
+<!--<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI4cW82NjlrMTQ2ZG9rZHZvZ2xmajF2OHFoeWxvZndvcHg1NHd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+</div>-->
 
+### :man_technologist: About Me :
+I'm Machine Learning Engineer / Data Analyst / Data Scientist from Belarus
 
+- :telescope: I work as a Machine Learning Engineer and contribute to the automation of machine vision systems, recommender systems, etc.
 
-<!--
-**Nikichel/Nikichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :seedling: Strengthening my mathematical base and competence.
 
-Here are some ideas to get you started:
+- :zap: In my free time, I take Stepik courses connected with python, programming math, machine learning. I adore singing and perform on stage from time to time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox: How to reach me: nipiki300@gmail.com
