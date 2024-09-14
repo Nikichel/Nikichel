@@ -15,10 +15,6 @@
   </h1>
 </div>
 
-<!--<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI4cW82NjlrMTQ2ZG9rZHZvZ2xmajF2OHFoeWxvZndvcHg1NHd4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
-</div>-->
-
 ### :man_technologist: About Me :
 I'm Machine Learning Engineer / Data Analyst / Data Scientist from Belarus
 
@@ -51,3 +47,39 @@ I'm Machine Learning Engineer / Data Analyst / Data Scientist from Belarus
 ---
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikichel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :mount_fuji: Courses
+
+<div>
+  <table style="width:100%">
+    <tr>
+      <th>Course</th>
+      <th>Data</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://youtube.com/playlist?list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh&si=KxGd2MDLcv5wsFzY">
+          Нейронные сети на Python
+        </a>
+      </td>
+      <td>04/2024 - 06/2024</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://stepik.org/course/186169/promo">
+          Нейронные сети с PyTorch: без формул, только практика!
+        </a>
+      </td>
+      <td>07/2024 - 09/2024</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://stepik.org/course/3356/promo">
+          Практикум по математике и Python
+        </a>
+      </td>
+      <td>08/2024 - current</td>
+    </tr>
+  </table>
+</div>
