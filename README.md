@@ -75,6 +75,14 @@ I'm Machine Learning Engineer / Data Analyst / Data Scientist from Belarus
     </tr>
     <tr>
       <td>
+        <a href="https://stepik.org/course/209247/promo">
+          Добрый, добрый ИИ. Часть 1. Машинное обучение
+        </a>
+      </td>
+      <td>09/2024 - current</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://stepik.org/course/3356/promo">
           Практикум по математике и Python
         </a>
